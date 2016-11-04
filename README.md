@@ -29,7 +29,7 @@ Installation
 - download the pss.sh script, give it exec perms (chmod u+x pss.sh), and put it in the &lt;whereYouWant> directory
 - create the following alias for your user (in your ~/.bash_profile): 
 ```bash
-alias pss='&lt;whereYouWant>/pss.sh'
+alias pss='<whereYouWant>/pss.sh'
 ```
 
 
